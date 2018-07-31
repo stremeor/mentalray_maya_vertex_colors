@@ -1,0 +1,6 @@
+declare
+    shader "print_vertexcolors" (
+         string "cpvSet"
+         )
+    version 1
+end declare
