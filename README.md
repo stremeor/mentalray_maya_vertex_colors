@@ -26,8 +26,8 @@ BTW, the shader code can be used for any kind of data block in a mentalray
 
 Here are some links to related **Mental Ray for Maya** online help topics
 
-[Render color per vertex in mentalray for Maya](https://knowledge.autodesk.com/support/maya/learn-explore/caas/CloudHelp/cloudhelp/2016/ENU/Maya/files/GUID-6ED598A1-86DD-4B2C-B34A-25BB13C979ED-htm.html)
+* [Render color per vertex in mentalray for Maya](https://knowledge.autodesk.com/support/maya/learn-explore/caas/CloudHelp/cloudhelp/2016/ENU/Maya/files/GUID-6ED598A1-86DD-4B2C-B34A-25BB13C979ED-htm.html)
 
-[mentalray for Maya custom shaders](https://knowledge.autodesk.com/support/maya/learn-explore/caas/CloudHelp/cloudhelp/2016/ENU/Maya/files/GUID-4F5F2A6F-55B5-47EE-BBD1-69F99C5BE4A6-htm.html)
+* [mentalray for Maya custom shaders](https://knowledge.autodesk.com/support/maya/learn-explore/caas/CloudHelp/cloudhelp/2016/ENU/Maya/files/GUID-4F5F2A6F-55B5-47EE-BBD1-69F99C5BE4A6-htm.html)
 
-[mentalray custom vertex data](https://knowledge.autodesk.com/support/maya/learn-explore/caas/CloudHelp/cloudhelp/2016/ENU/Maya/files/GUID-1C2282A6-B524-45C4-B050-4369FA13F5E0-htm.html)
+* [mentalray custom vertex data](https://knowledge.autodesk.com/support/maya/learn-explore/caas/CloudHelp/cloudhelp/2016/ENU/Maya/files/GUID-1C2282A6-B524-45C4-B050-4369FA13F5E0-htm.html)
