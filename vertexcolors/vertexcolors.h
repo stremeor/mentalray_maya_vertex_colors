@@ -1,9 +1,8 @@
 //
 //  vertexcolors.h
-//  customshader
+//  mr custom shader
 //
-//  Created by Steffen on 16.04.18.
-//  Copyright © 2018 NVIDIA. All rights reserved.
+//  Provided "as is".
 //
 
 #ifndef vertexcolors_h
