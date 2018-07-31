@@ -22,3 +22,6 @@ to just print out the information about a specific "named" color set.
 Should be self explanatory.
 
 BTW, the shader code can be used for any kind of data block in a .mi scene.
+
+Here are some links to related Mental Ray for Maya online help topics
+https://knowledge.autodesk.com/support/maya/learn-explore/caas/CloudHelp/cloudhelp/2016/ENU/Maya/files/GUID-6ED598A1-86DD-4B2C-B34A-25BB13C979ED-htm.html
